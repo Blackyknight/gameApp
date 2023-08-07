@@ -1,0 +1,81 @@
+body{
+  background-color:#ededed;
+  text-align: center;
+}
+
+h1{
+  font-size: 50px;
+}
+
+.game{
+  background-color: white;
+  margin-top: 80px;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  position: relative;
+  border-radius: 15px;
+}
+
+.styleDiv{
+  background-color: #6495ED;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: fixed;
+  left: 45%;
+}
+
+.gamepad{
+  color: whitesmoke;
+  position: relative;
+  top: 5px;
+  width: 25px;
+  height: 25px;
+}
+
+img{
+  border: #6495ED solid 2px;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
+h2{
+  font-size: 20px;
+  margin: 8px;
+}
+
+h3{
+  color: #6495ED;
+  font-family: 'Courier New', Courier, monospace;
+  margin: -5px;
+  font-size: 15px;
+}
+
+p{
+  color: #4169E1;
+}
+
+.btn{
+  padding-top: 8px;
+}
+
+button{
+  all: unset;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #6495ED;
+  font-family: serif;
+}
+
+.random{
+  position: relative;
+  bottom: 3px;
+  border: solid #6495ED 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 7px;
+  background-color: #E0FFFF;
+}
